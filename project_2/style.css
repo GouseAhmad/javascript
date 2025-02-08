@@ -1,0 +1,66 @@
+.a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding-top: 100px;
+}
+
+.b{
+       display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center; 
+}
+
+
+div{
+        min-height: 250px;
+         border: 0px solid black;
+         display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 30px;
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: center;
+        padding-top: 0px;
+        
+    }
+    .box{
+        height: 100px;
+        width: 100px;
+/*        color: white;
+*/        background-color: orange;
+        font-size: 20pt;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    #Red{
+        color: red;
+    }
+    
+    #Blue{
+        color: blue;
+    }
+    
+    
+    #Green{
+        color: green;
+    }
+    
+    #Yellow{
+        color: yellow;
+    }
+    
+    #Brown{
+        color: Brown;
+    }
+    
+    #white{
+        color: white;
+    }
